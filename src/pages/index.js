@@ -2,7 +2,7 @@ import * as React from "react"
 
 const IndexPage = () => {
   return (
-    <h1 className="bg-red-400">Welcome to Gatsby</h1>
+    <h1 className="bg-red-400">Welcome to Colobane Market</h1>
   )
 }
 
