@@ -1,8 +1,11 @@
 import * as React from "react"
+import Layout from "../layout/Layout";
+
 
 const IndexPage = () => {
   return (
-    <h1 className="bg-red-400">Welcome to Colobane Market</h1>
+    <Layout pageTitle={'homepage'}>
+    </Layout>
   )
 }
 
